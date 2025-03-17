@@ -14,5 +14,6 @@ Fizz
 However, it should continue on up to 1000.
 
 Remember: case matters! This project will be automatically graded, and computers are very literal!
+
 Evidencia de ejecucion:
 ![image](https://github.com/user-attachments/assets/28cf1727-4735-43c8-97fe-3f10d375ab61)
